@@ -8,6 +8,6 @@ Below is the motivation behind this project:
 
 Deepfakes are everywhere now, and like us you're probably wondering "wow how am I going to figure out if that video of Morgan Freeman telling me he isn't real, is actually real?". While a true deepfake detector is too complicated for a single workbook, we're going to do something a little bit easier - try and determine whether a picture of a face is fake or not. To solve this task, we will be using CNN (Convolutional Neural Networks)
 
-Skills Learned: Machine Learning, Deep Learning, Computer Vision, PyTorch, TensorFlow
+Skills Learned: Machine Learning, Deep Learning, Computer Vision, PyTorch
 
 Get started at ```RvF.ipynb``` 
