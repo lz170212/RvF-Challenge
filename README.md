@@ -11,3 +11,5 @@ Deepfakes are everywhere now, and like us you're probably wondering "wow how am 
 Skills Learned: Machine Learning, Deep Learning, Computer Vision, PyTorch
 
 Get started at ```RvF.ipynb``` 
+
+Naturally, the code for this challenge will be pushed to a different repository on GitHub seperated from your tutorials repository. You will be able to submit both repository link in the forms we send out later.
